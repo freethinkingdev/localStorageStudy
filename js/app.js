@@ -64,16 +64,3 @@ tweetForm.addEventListener("submit", function(e){
         addTweetsToTheListIfTheyExist(storedTweets);
     }
 });
-
-
-
-
-
-
-
-
-
-
-
-// console.log(storedTweets);
-
