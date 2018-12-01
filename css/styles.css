@@ -1,7 +1,9 @@
 * {
     font-family: 'Lato', sans-serif;
 }
-
+html {
+    height: 100%;
+}
 body {
 
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#258dc8+0,0382c6+100 */
@@ -11,7 +13,7 @@ background: -webkit-linear-gradient(top, #258dc8 0%,#0382c6 100%); /* Chrome10-2
 background: linear-gradient(to bottom, #258dc8 0%,#0382c6 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#258dc8', endColorstr='#0382c6',GradientType=0 ); /* IE6-9 */
 background-repeat: no-repeat;
-height: 3000px;
+height: 100%;
 overflow: hidden;
 }
 
