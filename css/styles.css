@@ -10,5 +10,13 @@ input[type="text"]{
     padding: 1.4rem;
     font-size: 1.4rem;
     color: #495057;
-    text-transform: 
+}
+
+
+.tweet-delete-icon {
+    cursor: pointer;
+}
+
+.tweet-delete-icon:hover {
+    color:red;
 }
